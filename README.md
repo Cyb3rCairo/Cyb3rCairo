@@ -12,8 +12,6 @@ Hello! I'm a beginner in cybersecurity and currently in the 4th semester of my C
 - **Projects**: My personal projects showcasing my journey and skills.
 - **Journey Insights**: Reflections on my experiences and the challenges I face along the way.
 
-* 🖥️ Check out my portfolio at [HiveMind Security](http://hivemindsecurity.com/)
-
 ### Skills
 
 <p align="left">
