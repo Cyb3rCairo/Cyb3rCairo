@@ -31,7 +31,7 @@ Hello! I'm currently in the 6th semester of my Computer Science degree. After st
   <br />
   
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="36" height="36" alt="Matplotlib" />
+    <img src="https://matplotlib.org/_static/logo_dark.svg" width="36" height="36" alt="Matplotlib" />
   </a> <strong><a href="https://matplotlib.org/" target="_blank">Matplotlib</a></strong>
   <br />
 
