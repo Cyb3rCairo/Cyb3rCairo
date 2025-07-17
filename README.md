@@ -4,7 +4,7 @@
 
 ### About Me / Sobre Mim
 
-🇺🇸 **Hello!** I'm currently in the 6th semester of my Computer Science degree. After starting in cybersecurity, I found my true passion in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I'm deeply curious about how data can be transformed into insight and how intelligent systems can help solve real-world problems.
+:us: **Hello!** I'm currently in the 6th semester of my Computer Science degree. After starting in cybersecurity, I found my true passion in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I'm deeply curious about how data can be transformed into insight and how intelligent systems can help solve real-world problems.
 
 🇧🇷 **Olá!** Estou no 6º semestre de Ciência da Computação. Comecei em cybersecurity, mas encontrei minha verdadeira paixão em **Ciência de Dados**, **Aprendizado de Máquina** e **Inteligência Artificial**. Sou fascinado por como dados podem se transformar em insights e como sistemas inteligentes resolvem problemas reais.
 
