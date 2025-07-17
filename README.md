@@ -15,55 +15,36 @@ Hello! I'm currently in the 6th semester of my Computer Science degree. After st
 ### Skills
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a> <strong><a href="https://github.com/Cyb3rCairo?tab=repositories" target="_blank" rel="noreferrer">Python</a></strong>
-  <br />
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
-  </a> <strong><a href="https://pandas.pydata.org/" target="_blank">Pandas</a></strong>
-  <br />
-  
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
-  </a> <strong><a href="https://numpy.org/" target="_blank">NumPy</a></strong>
-  <br />
-  
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="36" height="36" alt="Matplotlib" />
-  </a> <strong><a href="https://matplotlib.org/" target="_blank">Matplotlib</a></strong>
-  <br />
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="36" height="36" alt="Matplotlib" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="36" height="36" alt="Scikit-learn" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+</p>
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="36" height="36" alt="Scikit-learn" />
-  </a> <strong><a href="https://scikit-learn.org/" target="_blank">Scikit-learn</a></strong>
-  <br />
-  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
-  </a> <strong><a href="https://pytorch.org/" target="_blank">PyTorch</a></strong>
-  <br />
-
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a> <strong><a href="https://www.linux.org" target="_blank">Linux</a></strong>
-  <br />
-  
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a> <strong><a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a></strong>
+<p align="left">
+  <strong>Python</strong> &nbsp;&nbsp;
+  <strong>Pandas</strong> &nbsp;&nbsp;
+  <strong>NumPy</strong> &nbsp;&nbsp;
+  <strong>Matplotlib</strong> &nbsp;&nbsp;
+  <strong>Scikit-learn</strong> &nbsp;&nbsp;
+  <strong>PyTorch</strong> &nbsp;&nbsp;
+  <strong>Linux</strong> &nbsp;&nbsp;
+  <strong>VS Code</strong>
 </p>
 
 ### Socials
 
 <p align="left"> 
-<a href="https://github.com/Cyb3rCairo" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/Cyb3rCairo" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a> 
-<a href="https://www.linkedin.com/in/cairosamuelferreiracontato" target="_blank" rel="noreferrer"> 
+  </a> 
+  <a href="https://www.linkedin.com/in/cairosamuelferreiracontato" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a> 
+  </a> 
 </p>
 
 ### Badges
