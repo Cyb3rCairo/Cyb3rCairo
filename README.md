@@ -1,82 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cairo | Data Science</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #111;
-      color: #f4f4f4;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    .card {
-      background: #1e1e1e;
-      border-radius: 16px;
-      padding: 2rem;
-      box-shadow: 0 0 20px rgba(255, 255, 255, 0.05);
-      max-width: 600px;
-      width: 90%;
-    }
-    .toggle-btn {
-      background-color: #333;
-      border: none;
-      color: #fff;
-      padding: 0.5rem 1rem;
-      border-radius: 8px;
-      cursor: pointer;
-      margin-bottom: 1rem;
-    }
-    .lang-section {
-      display: none;
-    }
-    .lang-section.active {
-      display: block;
-    }
-    h1 {
-      font-size: 1.5rem;
-      margin-bottom: 0.5rem;
-    }
-    p {
-      line-height: 1.6;
-    }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <button class="toggle-btn" onclick="toggleLanguage()">Switch Language / Trocar Idioma</button>
+# Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" alt="wave" /> My name is Cairo
 
-    <div id="en" class="lang-section active">
-      <h1>Hello! I'm Cairo</h1>
-      <p>
-        I'm currently in the 6th semester of my Bachelor's in Data Science. I love turning data into insights — especially in the context of Formula 1.<br><br>
-        My favorite tools are Python, Pandas, Scikit-learn, and PyTorch. I’m also familiar with Linux and VS Code.<br><br>
-        Currently working on F1-related data projects and enhancing my Machine Learning skills.
-      </p>
-    </div>
+## Data Science & AI Enthusiast
 
-    <div id="pt" class="lang-section">
-      <h1>Olá! Eu sou o Cairo</h1>
-      <p>
-        Estou no 6º semestre da graduação em Ciência de Dados. Gosto de transformar dados em insights — especialmente no contexto da Fórmula 1.<br><br>
-        Minhas ferramentas preferidas são Python, Pandas, Scikit-learn e PyTorch. Também tenho familiaridade com Linux e VS Code.<br><br>
-        Atualmente estou desenvolvendo projetos de dados relacionados à F1 e aprimorando meus conhecimentos em Machine Learning.
-      </p>
-    </div>
-  </div>
+### About Me / Sobre Mim
 
-  <script>
-    function toggleLanguage() {
-      const en = document.getElementById("en");
-      const pt = document.getElementById("pt");
-      en.classList.toggle("active");
-      pt.classList.toggle("active");
-    }
-  </script>
-</body>
-</html>
+| English | Português |
+|---------|-----------|
+| Hello! I'm currently in the 6th semester of my Computer Science degree. After starting in cybersecurity, I found my true passion in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I'm deeply curious about how data can be transformed into insight and how intelligent systems can help solve real-world problems. | Olá! Estou atualmente no 6º semestre do curso de Ciência da Computação. Depois de começar na área de cibersegurança, encontrei minha verdadeira paixão em **Ciência de Dados**, **Aprendizado de Máquina** e **Inteligência Artificial**. Sou muito curioso sobre como dados podem ser transformados em insights e como sistemas inteligentes podem ajudar a resolver problemas reais. |
+
+### What You'll Find Here / O que você vai encontrar aqui
+
+- **Learning Resources / Recursos de Aprendizado**: Notes and guides on Data Science, ML, DL, and AI topics. / Notas e guias sobre Ciência de Dados, ML, DL e IA.
+- **Projects / Projetos**: My personal and academic projects applying data, models, and visualization. / Meus projetos pessoais e acadêmicos aplicando dados, modelos e visualizações.
+- **Journey Insights / Reflexões da Jornada**: Reflections on what I'm learning, building, and struggling with on this path. / Reflexões sobre o que estou aprendendo, construindo e enfrentando nesta jornada.
+
+### Skills / Habilidades
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
+  </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
+  </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="36" height="36" alt="Matplotlib" />
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="36" height="36" alt="Scikit-learn" />
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
+  </a> 
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>
+    <a href="https://github.com/Cyb3rCairo?tab=repositories" target="_blank" rel="noreferrer">Python</a> • 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">Pandas</a> • 
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">NumPy</a> • 
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">Matplotlib</a> • 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">Scikit-learn</a> • 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">PyTorch</a> • 
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer">Linux</a> • 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">VS Code</a>
+  </strong>
+</p>
+
+### Socials / Redes Sociais
+
+<p align="left">
+  <a href="https://github.com/Cyb3rCairo" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/cairosamuelferreiracontato" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+</p>
+
+### Badges / Estatísticas do GitHub
+
+<a href="http://www.github.com/Cyb3rCairo" target="_blank" rel="noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyb3rCairo&show_icons=true&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true" alt="Cyb3rCairo's GitHub stats" />
+</a>
