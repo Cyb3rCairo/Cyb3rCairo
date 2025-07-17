@@ -36,7 +36,7 @@ Hello! I'm currently in the 6th semester of my Computer Science degree. After st
   <br />
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="36" height="36" alt="Scikit-learn" />
+    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="36" height="36" alt="Scikit-learn" />
   </a> <strong><a href="https://scikit-learn.org/" target="_blank">Scikit-learn</a></strong>
   <br />
   
