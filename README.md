@@ -55,6 +55,7 @@ Estou começando minha jornada em ML! Atualmente:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://godotengine.org/assets/press/icon_color.svg" width="40" title="Godot"/>
 </p>
 
 ---
