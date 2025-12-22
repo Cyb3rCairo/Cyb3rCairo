@@ -117,6 +117,12 @@ Estou começando minha jornada em ML! Atualmente:
 
 <a href="http://www.github.com/Cyb3rCairo"><img src="https://github-readme-stats.vercel.app/api?username=Cyb3rCairo&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Cyb3rCairo's GitHub stats" /></a>
 
+<img src="https://github-readme-stats.vercel.app/api/?username=Cyb3rCairo&theme=dracula&hide_title=true&count_private=true&show_icons=true&include_all_commits=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rCairo&langs_count=6&theme=dracula&hide=css,html&count_private=false">
+
+<img src="https://komarev.com/ghpvc/?username=Cyb3rCairo&&style=flat-square"/>
+
 ---
 
 ### 💬 Let's Collaborate!  
