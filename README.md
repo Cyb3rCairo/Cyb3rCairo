@@ -115,7 +115,7 @@ Estou começando minha jornada em ML! Atualmente:
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyb3rCairo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyb3rCairo)](https://github.com/Cyb3rCairo/github-readme-stats)
 
 ---
 
