@@ -115,11 +115,7 @@ Estou começando minha jornada em ML! Atualmente:
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Cyb3rCairo&theme=dracula&hide_title=true&count_private=true&show_icons=true&include_all_commits=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rCairo&langs_count=6&theme=dracula&hide=css,html&count_private=false">
-
-<img src="https://komarev.com/ghpvc/?username=Cyb3rCairo&&style=flat-square"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyb3rCairo)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
