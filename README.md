@@ -42,11 +42,11 @@ Data Automation**.
   <img src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/81b1ea16f4f9b24ee552ff3d2d54f0ed7745e20a/SVG/Power-BI.svg" width="40" title="Power BI"/>
 </p>
 
-**Python · SQL · Pandas · NumPy · Power BI · Power Query · Excel · Plotly · Matplotlib**
+**Python · SQL · Pandas · NumPy · Power BI · Power Query · Excel · Plotly · Matplotlib · Exploratory Data Analysis**
 
 ### Machine Learning
 
-**Scikit-learn · Exploratory Data Analysis · Feature Engineering · Machine Learning**
+**Scikit-learn · Feature Engineering · Machine Learning**
 
 ### Tools
 
@@ -69,7 +69,7 @@ Data Automation**.
 - Develop Python-based tools for operational data processing and automation.
 - Build data validation, transformation and standardization workflows.
 - Work with Power BI, Power Query, Excel, JSON, CSV, TXT, DBF and DuckDB.
-- Automated workflows that previously required several days of manual work across multiple computers.
+- Automated workflows that previously required several days of manual work across two computers.
 
 ### CTNano / UFMG
 **Undergraduate Researcher — Data Analysis**
@@ -100,7 +100,6 @@ cleaning, exploratory analysis, SQL queries and interactive visualization.
 - Power BI and Business Intelligence
 - Python automation
 - Data Science and Machine Learning
-- Improving my English for international work environments
 
 ---
 
